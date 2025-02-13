@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ngMgc8iig50=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elli0t\\source\\repos\\Avaliacao\\Avaliacao-DotNet\\AvaliacaoDotNet\\AvaliacaoDotNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elli0t\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\elli0t\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

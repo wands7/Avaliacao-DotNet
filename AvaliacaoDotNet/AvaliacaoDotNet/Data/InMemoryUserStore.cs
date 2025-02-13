@@ -1,14 +1,18 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using AvaliacaoDotNet.Domain.Entities;
+using Microsoft.AspNetCore.Identity;
+using System;
 using System.Collections.Concurrent;
-using System.Threading;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 
-namespace AvaliacaoDotNet.Data
+namespace AvaliacaoDotNet.Infrastructure.Data
 {
-
     public class InMemoryUserStore : IUserStore<IdentityUser>, IUserPasswordStore<IdentityUser>
     {
         private readonly ConcurrentDictionary<string, IdentityUser> _users = new();
+        private static readonly List<Telefone> _telefones = new();
 
         public Task<IdentityResult> CreateAsync(IdentityUser user, CancellationToken cancellationToken)
         {

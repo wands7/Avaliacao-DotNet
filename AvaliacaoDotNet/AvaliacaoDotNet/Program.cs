@@ -1,13 +1,16 @@
-using AvaliacaoDotNet.Data;
+using AvaliacaoDotNet.Application.Services;
+using AvaliacaoDotNet.Domain.Interfaces;
+using AvaliacaoDotNet.Infrastructure.Data;
+using AvaliacaoDotNet.Infrastructure.Repositories;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddScoped<IPessoaRepository, PessoaRepository>();
+builder.Services.AddScoped<PessoaService>();
 builder.Services.AddIdentityCore<IdentityUser>();
 builder.Services.AddSingleton<IUserStore<IdentityUser>, InMemoryUserStore>(); // Adiciona o store em memória
 builder.Services.AddIdentityCore<IdentityUser>()

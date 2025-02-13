@@ -14,7 +14,7 @@ namespace AvaliacaoDotNet.Controllers
         private readonly string _secretKey = "chave-secreta-super-segura-que-tem-32-caracteres!"; // Mantenha isso seguro
 
         [HttpPost("login")]
-        public ActionResult<string> Login([FromBody] LoginModel login)
+        public ActionResult<string> Login([FromBody] Login login)
         {
             //valida o login
             if (login.Username == "admin" && login.Password == "admin")

@@ -1,0 +1,13 @@
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Domain\bin\Debug\net9.0\AvaliacaoDotNet.Domain.deps.json
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Domain\bin\Debug\net9.0\AvaliacaoDotNet.Domain.dll
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Domain\bin\Debug\net9.0\AvaliacaoDotNet.Domain.pdb
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Domain\obj\Debug\net9.0\AvaliacaoDotNet.Domain.csproj.AssemblyReference.cache
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Domain\obj\Debug\net9.0\AvaliacaoDotNet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Domain\obj\Debug\net9.0\AvaliacaoDotNet.Domain.AssemblyInfoInputs.cache
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Domain\obj\Debug\net9.0\AvaliacaoDotNet.Domain.AssemblyInfo.cs
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Domain\obj\Debug\net9.0\AvaliacaoDotNet.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Domain\obj\Debug\net9.0\AvaliacaoDotNet.Domain.sourcelink.json
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Domain\obj\Debug\net9.0\AvaliacaoDotNet.Domain.dll
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Domain\obj\Debug\net9.0\refint\AvaliacaoDotNet.Domain.dll
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Domain\obj\Debug\net9.0\AvaliacaoDotNet.Domain.pdb
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Domain\obj\Debug\net9.0\ref\AvaliacaoDotNet.Domain.dll

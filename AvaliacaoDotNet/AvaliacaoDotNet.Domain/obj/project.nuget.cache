@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2LX/02deA2E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elli0t\\source\\repos\\Avaliacao\\Avaliacao-DotNet\\AvaliacaoDotNet\\AvaliacaoDotNet.Domain\\AvaliacaoDotNet.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elli0t\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.0.0\\microsoft.aspnetcore.cryptography.internal.3.0.0.nupkg.sha512",
+    "C:\\Users\\elli0t\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.0.0\\microsoft.aspnetcore.cryptography.keyderivation.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

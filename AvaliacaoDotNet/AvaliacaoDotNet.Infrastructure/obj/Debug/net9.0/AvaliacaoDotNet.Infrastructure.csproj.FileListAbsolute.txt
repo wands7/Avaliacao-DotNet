@@ -1,0 +1,16 @@
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Infrastructure\bin\Debug\net9.0\AvaliacaoDotNet.Infrastructure.deps.json
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Infrastructure\bin\Debug\net9.0\AvaliacaoDotNet.Infrastructure.dll
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Infrastructure\bin\Debug\net9.0\AvaliacaoDotNet.Infrastructure.pdb
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Infrastructure\bin\Debug\net9.0\AvaliacaoDotNet.Domain.dll
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Infrastructure\bin\Debug\net9.0\AvaliacaoDotNet.Domain.pdb
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Infrastructure\obj\Debug\net9.0\AvaliacaoDotNet.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Infrastructure\obj\Debug\net9.0\AvaliacaoDotNet.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Infrastructure\obj\Debug\net9.0\AvaliacaoDotNet.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Infrastructure\obj\Debug\net9.0\AvaliacaoDotNet.Infrastructure.AssemblyInfo.cs
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Infrastructure\obj\Debug\net9.0\AvaliacaoDotNet.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Infrastructure\obj\Debug\net9.0\AvaliacaoDotNet.Infrastructure.sourcelink.json
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Infrastructure\obj\Debug\net9.0\Avaliaca.46B449F6.Up2Date
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Infrastructure\obj\Debug\net9.0\AvaliacaoDotNet.Infrastructure.dll
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Infrastructure\obj\Debug\net9.0\refint\AvaliacaoDotNet.Infrastructure.dll
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Infrastructure\obj\Debug\net9.0\AvaliacaoDotNet.Infrastructure.pdb
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Infrastructure\obj\Debug\net9.0\ref\AvaliacaoDotNet.Infrastructure.dll

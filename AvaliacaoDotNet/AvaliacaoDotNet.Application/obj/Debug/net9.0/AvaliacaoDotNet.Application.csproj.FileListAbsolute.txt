@@ -1,0 +1,16 @@
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Application\bin\Debug\net9.0\AvaliacaoDotNet.Application.deps.json
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Application\bin\Debug\net9.0\AvaliacaoDotNet.Application.dll
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Application\bin\Debug\net9.0\AvaliacaoDotNet.Application.pdb
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Application\bin\Debug\net9.0\AvaliacaoDotNet.Domain.dll
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Application\bin\Debug\net9.0\AvaliacaoDotNet.Domain.pdb
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Application\obj\Debug\net9.0\AvaliacaoDotNet.Application.csproj.AssemblyReference.cache
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Application\obj\Debug\net9.0\AvaliacaoDotNet.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Application\obj\Debug\net9.0\AvaliacaoDotNet.Application.AssemblyInfoInputs.cache
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Application\obj\Debug\net9.0\AvaliacaoDotNet.Application.AssemblyInfo.cs
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Application\obj\Debug\net9.0\AvaliacaoDotNet.Application.csproj.CoreCompileInputs.cache
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Application\obj\Debug\net9.0\AvaliacaoDotNet.Application.sourcelink.json
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Application\obj\Debug\net9.0\Avaliaca.5EBFC646.Up2Date
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Application\obj\Debug\net9.0\AvaliacaoDotNet.Application.dll
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Application\obj\Debug\net9.0\refint\AvaliacaoDotNet.Application.dll
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Application\obj\Debug\net9.0\AvaliacaoDotNet.Application.pdb
+C:\Users\elli0t\source\repos\Avaliacao\Avaliacao-DotNet\AvaliacaoDotNet\AvaliacaoDotNet.Application\obj\Debug\net9.0\ref\AvaliacaoDotNet.Application.dll

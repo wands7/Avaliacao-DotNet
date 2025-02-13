@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "72wlfAySxmfl9/a3ZeMdN6tGYu4KZytC2yrJiYwzhqA=",
-  "Source": "AvaliacaoDotNet",
-  "BasePath": "_content/AvaliacaoDotNet",
+  "Hash": "7NIdfo/GuknMtJheTqfuOAm4iZKcOgRyoMBSGG0Tsu8=",
+  "Source": "AvaliacaoDotNet.API",
+  "BasePath": "_content/AvaliacaoDotNet.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

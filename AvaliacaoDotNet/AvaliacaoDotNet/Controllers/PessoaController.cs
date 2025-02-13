@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using AvaliacaoDotNet.Domain.Entities;
+using AvaliacaoDotNet.Domain.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,6 +12,7 @@ namespace AvaliacaoDotNet.Controllers
     public class PessoaController : ControllerBase
     {
         private static readonly List<Pessoa> _pessoas = new();
+        private static readonly List<Telefone> _telefones = new();
 
         [Authorize]
         [HttpGet]
@@ -33,12 +36,13 @@ namespace AvaliacaoDotNet.Controllers
         [HttpPost]
         public ActionResult<Pessoa> Create([FromBody] Pessoa pessoa)
         {
-            pessoa.CPF = pessoa.CPFSemPontuacao;
 
             if (_pessoas.Any(p => p.CPF.Replace(".", "").Replace("-", "") == pessoa.CPF))
                 return BadRequest("Já existe uma pessoa com esse CPF.");
 
+            pessoa.Id = _pessoas.Count + 1;
             _pessoas.Add(pessoa);
+
             return CreatedAtAction(nameof(GetByCpf), new { cpf = pessoa.CPF }, pessoa);
         }
 
@@ -54,6 +58,8 @@ namespace AvaliacaoDotNet.Controllers
             pessoa.DataNascimento = pessoaAtualizada.DataNascimento;
             pessoa.EstaAtivo = pessoaAtualizada.EstaAtivo;
 
+            pessoa.Telefones = pessoaAtualizada.Telefones ?? new List<Telefone>();
+
             return Ok("Pessoa atualizada com sucesso!");
         }
 
@@ -67,7 +73,8 @@ namespace AvaliacaoDotNet.Controllers
 
             _pessoas.Remove(pessoa);
             return Ok("Pessoa deletada com sucesso!");
-        }
+        }        
+        
     }
 
 }

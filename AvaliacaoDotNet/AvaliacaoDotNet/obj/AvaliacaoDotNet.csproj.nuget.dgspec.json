@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elli0t\\source\\repos\\Desafio\\desafio\\AvaliacaoDotNet\\AvaliacaoDotNet\\AvaliacaoDotNet.csproj": {}
+    "C:\\Users\\elli0t\\source\\repos\\Avaliacao\\Avaliacao-DotNet\\AvaliacaoDotNet\\AvaliacaoDotNet\\AvaliacaoDotNet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elli0t\\source\\repos\\Desafio\\desafio\\AvaliacaoDotNet\\AvaliacaoDotNet\\AvaliacaoDotNet.csproj": {
+    "C:\\Users\\elli0t\\source\\repos\\Avaliacao\\Avaliacao-DotNet\\AvaliacaoDotNet\\AvaliacaoDotNet\\AvaliacaoDotNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elli0t\\source\\repos\\Desafio\\desafio\\AvaliacaoDotNet\\AvaliacaoDotNet\\AvaliacaoDotNet.csproj",
+        "projectUniqueName": "C:\\Users\\elli0t\\source\\repos\\Avaliacao\\Avaliacao-DotNet\\AvaliacaoDotNet\\AvaliacaoDotNet\\AvaliacaoDotNet.csproj",
         "projectName": "AvaliacaoDotNet",
-        "projectPath": "C:\\Users\\elli0t\\source\\repos\\Desafio\\desafio\\AvaliacaoDotNet\\AvaliacaoDotNet\\AvaliacaoDotNet.csproj",
+        "projectPath": "C:\\Users\\elli0t\\source\\repos\\Avaliacao\\Avaliacao-DotNet\\AvaliacaoDotNet\\AvaliacaoDotNet\\AvaliacaoDotNet.csproj",
         "packagesPath": "C:\\Users\\elli0t\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elli0t\\source\\repos\\Desafio\\desafio\\AvaliacaoDotNet\\AvaliacaoDotNet\\obj\\",
+        "outputPath": "C:\\Users\\elli0t\\source\\repos\\Avaliacao\\Avaliacao-DotNet\\AvaliacaoDotNet\\AvaliacaoDotNet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

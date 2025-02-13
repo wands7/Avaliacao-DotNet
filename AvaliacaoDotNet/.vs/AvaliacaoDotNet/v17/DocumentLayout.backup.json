@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\elli0t\\source\\repos\\Desafio\\desafio\\AvaliacaoDotNet\\",
+  "WorkspaceRootPath": "C:\\Users\\elli0t\\source\\repos\\Avaliacao\\Avaliacao-DotNet\\AvaliacaoDotNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{007F175F-6574-4DD8-8BAA-317935388EDC}|AvaliacaoDotNet\\AvaliacaoDotNet.csproj|c:\\users\\elli0t\\source\\repos\\desafio\\desafio\\avaliacaodotnet\\avaliacaodotnet\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007F175F-6574-4DD8-8BAA-317935388EDC}|AvaliacaoDotNet\\AvaliacaoDotNet.csproj|solutionrelative:avaliacaodotnet\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{007F175F-6574-4DD8-8BAA-317935388EDC}|AvaliacaoDotNet\\AvaliacaoDotNet.API.csproj|c:\\users\\elli0t\\source\\repos\\avaliacao\\avaliacao-dotnet\\avaliacaodotnet\\avaliacaodotnet\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007F175F-6574-4DD8-8BAA-317935388EDC}|AvaliacaoDotNet\\AvaliacaoDotNet.API.csproj|solutionrelative:avaliacaodotnet\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{007F175F-6574-4DD8-8BAA-317935388EDC}|AvaliacaoDotNet\\AvaliacaoDotNet.csproj|c:\\users\\elli0t\\source\\repos\\desafio\\desafio\\avaliacaodotnet\\avaliacaodotnet\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007F175F-6574-4DD8-8BAA-317935388EDC}|AvaliacaoDotNet\\AvaliacaoDotNet.csproj|solutionrelative:avaliacaodotnet\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43406AEC-467F-43B4-8DB7-54E670671607}|AvaliacaoDotNet.Domain\\AvaliacaoDotNet.Domain.csproj|c:\\users\\elli0t\\source\\repos\\avaliacao\\avaliacao-dotnet\\avaliacaodotnet\\avaliacaodotnet.domain\\entities\\telefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43406AEC-467F-43B4-8DB7-54E670671607}|AvaliacaoDotNet.Domain\\AvaliacaoDotNet.Domain.csproj|solutionrelative:avaliacaodotnet.domain\\entities\\telefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{007F175F-6574-4DD8-8BAA-317935388EDC}|AvaliacaoDotNet\\AvaliacaoDotNet.csproj|c:\\users\\elli0t\\source\\repos\\desafio\\desafio\\avaliacaodotnet\\avaliacaodotnet\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007F175F-6574-4DD8-8BAA-317935388EDC}|AvaliacaoDotNet\\AvaliacaoDotNet.csproj|solutionrelative:avaliacaodotnet\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43406AEC-467F-43B4-8DB7-54E670671607}|AvaliacaoDotNet.Domain\\AvaliacaoDotNet.Domain.csproj|c:\\users\\elli0t\\source\\repos\\avaliacao\\avaliacao-dotnet\\avaliacaodotnet\\avaliacaodotnet.domain\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43406AEC-467F-43B4-8DB7-54E670671607}|AvaliacaoDotNet.Domain\\AvaliacaoDotNet.Domain.csproj|solutionrelative:avaliacaodotnet.domain\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{007F175F-6574-4DD8-8BAA-317935388EDC}|AvaliacaoDotNet\\AvaliacaoDotNet.csproj|c:\\users\\elli0t\\source\\repos\\desafio\\desafio\\avaliacaodotnet\\avaliacaodotnet\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007F175F-6574-4DD8-8BAA-317935388EDC}|AvaliacaoDotNet\\AvaliacaoDotNet.csproj|solutionrelative:avaliacaodotnet\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{007F175F-6574-4DD8-8BAA-317935388EDC}|AvaliacaoDotNet\\AvaliacaoDotNet.csproj|c:\\users\\elli0t\\source\\repos\\desafio\\desafio\\avaliacaodotnet\\avaliacaodotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007F175F-6574-4DD8-8BAA-317935388EDC}|AvaliacaoDotNet\\AvaliacaoDotNet.csproj|solutionrelative:avaliacaodotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{007F175F-6574-4DD8-8BAA-317935388EDC}|AvaliacaoDotNet\\AvaliacaoDotNet.API.csproj|c:\\users\\elli0t\\source\\repos\\avaliacao\\avaliacao-dotnet\\avaliacaodotnet\\avaliacaodotnet\\data\\inmemoryuserstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007F175F-6574-4DD8-8BAA-317935388EDC}|AvaliacaoDotNet\\AvaliacaoDotNet.API.csproj|solutionrelative:avaliacaodotnet\\data\\inmemoryuserstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginModel.cs",
-              "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\Desafio\\desafio\\AvaliacaoDotNet\\AvaliacaoDotNet\\Models\\LoginModel.cs",
-              "RelativeDocumentMoniker": "AvaliacaoDotNet\\Models\\LoginModel.cs",
-              "ToolTip": "C:\\Users\\elli0t\\source\\repos\\Desafio\\desafio\\AvaliacaoDotNet\\AvaliacaoDotNet\\Models\\LoginModel.cs",
-              "RelativeToolTip": "AvaliacaoDotNet\\Models\\LoginModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PessoaController.cs",
+              "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\Avaliacao\\Avaliacao-DotNet\\AvaliacaoDotNet\\AvaliacaoDotNet\\Controllers\\PessoaController.cs",
+              "RelativeDocumentMoniker": "AvaliacaoDotNet\\Controllers\\PessoaController.cs",
+              "ToolTip": "C:\\Users\\elli0t\\source\\repos\\Avaliacao\\Avaliacao-DotNet\\AvaliacaoDotNet\\AvaliacaoDotNet\\Controllers\\PessoaController.cs",
+              "RelativeToolTip": "AvaliacaoDotNet\\Controllers\\PessoaController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAawDwAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T15:59:01.801Z",
+              "WhenOpened": "2025-02-13T17:59:55.246Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Telefone.cs",
+              "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\Avaliacao\\Avaliacao-DotNet\\AvaliacaoDotNet\\AvaliacaoDotNet.Domain\\Entities\\Telefone.cs",
+              "RelativeDocumentMoniker": "AvaliacaoDotNet.Domain\\Entities\\Telefone.cs",
+              "ToolTip": "C:\\Users\\elli0t\\source\\repos\\Avaliacao\\Avaliacao-DotNet\\AvaliacaoDotNet\\AvaliacaoDotNet.Domain\\Entities\\Telefone.cs",
+              "RelativeToolTip": "AvaliacaoDotNet.Domain\\Entities\\Telefone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:08:45.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\Desafio\\desafio\\AvaliacaoDotNet\\AvaliacaoDotNet\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "AvaliacaoDotNet\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\elli0t\\source\\repos\\Desafio\\desafio\\AvaliacaoDotNet\\AvaliacaoDotNet\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "AvaliacaoDotNet\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIAwwBAAAABBAAAAAAAAAA==",
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\Avaliacao\\Avaliacao-DotNet\\AvaliacaoDotNet\\AvaliacaoDotNet.Domain\\Entities\\Pessoa.cs",
+              "RelativeDocumentMoniker": "AvaliacaoDotNet.Domain\\Entities\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\elli0t\\source\\repos\\Avaliacao\\Avaliacao-DotNet\\AvaliacaoDotNet\\AvaliacaoDotNet.Domain\\Entities\\Pessoa.cs",
+              "RelativeToolTip": "AvaliacaoDotNet.Domain\\Entities\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T15:57:34.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\Desafio\\desafio\\AvaliacaoDotNet\\AvaliacaoDotNet\\Program.cs",
-              "RelativeDocumentMoniker": "AvaliacaoDotNet\\Program.cs",
-              "ToolTip": "C:\\Users\\elli0t\\source\\repos\\Desafio\\desafio\\AvaliacaoDotNet\\AvaliacaoDotNet\\Program.cs",
-              "RelativeToolTip": "AvaliacaoDotNet\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAB9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T15:30:35.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PessoaController.cs",
-              "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\Desafio\\desafio\\AvaliacaoDotNet\\AvaliacaoDotNet\\Controllers\\PessoaController.cs",
-              "RelativeDocumentMoniker": "AvaliacaoDotNet\\Controllers\\PessoaController.cs",
-              "ToolTip": "C:\\Users\\elli0t\\source\\repos\\Desafio\\desafio\\AvaliacaoDotNet\\AvaliacaoDotNet\\Controllers\\PessoaController.cs",
-              "RelativeToolTip": "AvaliacaoDotNet\\Controllers\\PessoaController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T15:46:29.195Z",
+              "WhenOpened": "2025-02-13T18:01:38.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\Desafio\\desafio\\AvaliacaoDotNet\\AvaliacaoDotNet\\Models\\Pessoa.cs",
-              "RelativeDocumentMoniker": "AvaliacaoDotNet\\Models\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\elli0t\\source\\repos\\Desafio\\desafio\\AvaliacaoDotNet\\AvaliacaoDotNet\\Models\\Pessoa.cs",
-              "RelativeToolTip": "AvaliacaoDotNet\\Models\\Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Title": "InMemoryUserStore.cs",
+              "DocumentMoniker": "C:\\Users\\elli0t\\source\\repos\\Avaliacao\\Avaliacao-DotNet\\AvaliacaoDotNet\\AvaliacaoDotNet\\Data\\InMemoryUserStore.cs",
+              "RelativeDocumentMoniker": "AvaliacaoDotNet\\Data\\InMemoryUserStore.cs",
+              "ToolTip": "C:\\Users\\elli0t\\source\\repos\\Avaliacao\\Avaliacao-DotNet\\AvaliacaoDotNet\\AvaliacaoDotNet\\Data\\InMemoryUserStore.cs",
+              "RelativeToolTip": "AvaliacaoDotNet\\Data\\InMemoryUserStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T15:29:04.886Z",
+              "WhenOpened": "2025-02-13T18:00:37.885Z",
               "EditorCaption": ""
             }
           ]
